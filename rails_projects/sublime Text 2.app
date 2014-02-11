@@ -1,0 +1,1 @@
+/Applications/sublime Text 2.app
